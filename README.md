@@ -2,7 +2,7 @@
 Create a simple, brutalistic recipe page using HTML
 
 ## Links
-- [Try the page](https://github.com/Shefleris/odin-recipes)
+- [Try the page](https://shefleris.github.io/odin-recipes/)
 - [Link to the assignment](https://www.theodinproject.com/lessons/foundations-recipes)
 
 ## Thoughts
