@@ -9,6 +9,12 @@
     padding:10px;
 }
 
+.recipe-card {
+    max-width:800px;
+    margin:auto;
+    padding:10px;
+}
+
 .title {
     font-weight:bold;
     margin:0;
@@ -38,4 +44,30 @@
 
 a.list-item-recipe:hover {
     border-bottom: 1px solid #000000;
+}
+
+.ingredients {
+    display: inline-block;
+
+}
+
+.ingredients-optional{
+    display:inline-block;
+    vertical-align:top;
+    margin:0 40px;
+}
+
+.image {
+    border-radius:7px;
+    display: inline-block;
+}
+
+.backbutton {
+    margin:30px 0px;
+    padding:5px 10px;
+    background-color:#464136;
+    color:white;
+    border-radius:7px;
+    text-decoration:none;
+    display:inline-block;
 }
