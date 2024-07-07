@@ -19,3 +19,23 @@
     font-style:italic;
     margin:0;
 }
+
+.list-recipes {
+    padding:0px;
+}
+
+.list-recipes li {
+    list-style:none;
+}
+
+.list-item-recipe {
+    text-decoration:none;
+    color:black;
+    margin:4px 0;
+    border: 1px solid transparent;
+    display:block;
+}
+
+a.list-item-recipe:hover {
+    border-bottom: 1px solid #000000;
+}
